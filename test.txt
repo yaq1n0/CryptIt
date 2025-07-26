@@ -1,0 +1,9 @@
+Hello, this is a secret message that will be encrypted using AES-256-GCM and protected with Shamir Secret Sharing!
+
+This file contains some sensitive information that should only be accessible when the required number of key shares are combined.
+
+CryptIt MVP Test File
+=====================
+- Encryption: AES-256-GCM
+- Key Management: Shamir Secret Sharing (k-of-n threshold)
+- Cross-platform: Built with Tauri + Vue 
